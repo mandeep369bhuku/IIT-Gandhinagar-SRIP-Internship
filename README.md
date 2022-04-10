@@ -2,7 +2,6 @@
 
 
 ## About
-
 My qualifications and skills, I believe, make me an excellent candidate for the job. I am a full-time student at Madhuben and Bhanubhai Patel Institute of Technology in Anand, Gujarat. I'm in my third year of college. In my situation, the CPI is 8.7.
 
 I'm now working on a conference paper on Twitter sentiment analysis with Mr. Deepak Gerard, a Doctoral Research Scholar at the National Institute of Technology, Tiruchirappalli (NIT Trichy). I'm also pursuing an Indian Institute of Technology, Madras, online B.Sc. in data science and programming. In July, I was fortunate enough to earn an internship at Larsen & Toubro. I learnt the fundamentals of machine learning and worked on projects including the Flair prediction project, House price prediction with datasets, and Titanic survival prediction project during my one-month internship. Prior to it, I worked on the Hawkeye project. It's a professional aim training programme for gamers and professional drivers to assist them enhance their reflexes and reaction speeds. It was made with Java, JavaFxml, and Scenebulider. At the A.D.I.T. International Mathematical Conference, I also presented a research work. I competed in a nationwide coding competition offered by G.C.E.T.
