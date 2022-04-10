@@ -1,7 +1,7 @@
 # IIT-Gandhinagar-SRIP-Internship
 
 
-## ABOUT:-
+# AboutT
 
 My qualifications and skills, I believe, make me an excellent candidate for the job. I am a full-time student at Madhuben and Bhanubhai Patel Institute of Technology in Anand, Gujarat. I'm in my third year of college. In my situation, the CPI is 8.7.
 
